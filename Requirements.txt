@@ -1,0 +1,10 @@
+basic requirements:
+
+Python installed in your system.
+lib pyttsx3 :
+	pip install pyttsx3
+
+x64 bit *
+
+for CMD :
+	python "filename.py" or python "main.py"
