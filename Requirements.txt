@@ -1,0 +1,11 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Welcome in Shadow Tools ..........................................
+
+~~
+python installed in your system.
+x64 bit.
+lib:
+     pyttsx3 
+	: pip install pyttsx3  (in cmd).
+
+now , you are "Good Too Go"..........
