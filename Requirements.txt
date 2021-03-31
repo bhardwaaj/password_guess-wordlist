@@ -1,10 +1,8 @@
-basic requirements:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Welcome in Shadow Tools ..........................................
 
-Python installed in your system.
-lib pyttsx3 :
-	pip install pyttsx3
+About program :
+	This Program is used to guess your password which you have entered in code 	and then the output will be save in "radhey.txt" file with all possible trails.
 
-x64 bit *
-
-for CMD :
-	python "filename.py" or python "main.py"
+Use As a dicinory attack / Wordlist generator :
+				For creat wordlist for DoDos Attack then just simplly type  all charecttere from "A to Z " and "1 to 9" for wordlist 
