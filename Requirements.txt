@@ -1,8 +1,0 @@
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Welcome in Shadow Tools ..........................................
-
-About program :
-	This Program is used to guess your password which you have entered in code 	and then the output will be save in "radhey.txt" file with all possible trails.
-
-Use As a dicinory attack / Wordlist generator :
-				For creat wordlist for DoDos Attack then just simplly type  all charecttere from "A to Z " and "1 to 9" for wordlist 
